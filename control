@@ -1,0 +1,11 @@
+Package: io.github.ahyattdev.nomessagesflash
+Name: NoMessagesFlash
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disables the camera from flashing when using the Messages quick camera
+Maintainer: Andrew Hyatt <ahyattdev@icloud.com>
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+Section: Tweaks
+Priority: optional
+dev: andrewhyatt
